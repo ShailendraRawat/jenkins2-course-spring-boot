@@ -45,7 +45,7 @@ public class Message {
 	public long getTime() {
 		return this.time;
 	}
-
+//second change comment
 	public void setTime(long time) {
 		this.time = time;
 	}
